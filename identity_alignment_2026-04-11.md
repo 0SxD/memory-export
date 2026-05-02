@@ -9,7 +9,7 @@ type: user
 **Verified via:** NotebookLM sageXai_72 (ID: 30e92c7f-2732-49fd-8096-cf3ba0572f62, session: 1b072f62)
 
 ### Sage (The Architect)
-- Austin Bennett Green, founder of FATExDAO
+- Sage / 0SxD, founder of FATExDAO
 - Only person to write a green paper in DeFi
 - Former dev team: dolomite.io
 - 20,000+ hours trading, quant finance, market microstructure, blockchain/Web3
